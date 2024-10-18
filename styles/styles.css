@@ -12,8 +12,8 @@
 
 :root {
   /* colors */
-  --link-color: #035fe6;
-  --link-hover-color: #136ff6;
+  --link-color: #93002E;
+  --link-hover-color: #b5043c;
   --background-color: white;
   --light-color: #eee;
   --dark-color: #ccc;
@@ -97,6 +97,8 @@ h3 { font-size: var(--heading-font-size-l); }
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-s); }
 h6 { font-size: var(--heading-font-size-xs); }
+
+h3 { color: #93002E;}
 
 p,
 dl,
